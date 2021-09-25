@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.countries-container{
+background-color: coral;
+margin: 10px;
+border-radius: 20px;
+padding: 5px;
+}
+.flag{
+  width: 50%;
+  border-radius: 10px;
+}
